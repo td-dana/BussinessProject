@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css?family=Cardo" );
+@import url("https://fonts.googleapis.com/css?family=Old+Standard+TT" );
+/* @import url("https://fonts.googleapis.com/css?family=La+Belle+Aurore"); */
+/* @import url("https://fonts.googleapis.com/css?family=EB+Garamond"); */
+@import url("https://fonts.googleapis.com/css?family=Marvel");
+@import url("https://fonts.googleapis.com/css?family=Maiden+Orange");
+
+h1{
+  text-align: center;
+  color: #5e081b;
+  font-family: "Old Standard TT", cursive;
+  font-size:50px;
+}
+
+h2 {
+  text-align:center;
+  color: #4d0000;
+  font-family: "Maiden Orange", cursive;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+h3 {
+  text-align: left;
+  color: #5e081b;
+  font-size: 25px;
+}
+
+body {
+  border-style: double;
+  border-width: 10px;
+  border-color:#ff4d4d;
+  padding: 80px;
+  background-color:lightyellow;
+}
+
+#para1 {
+  font-family: "Marvel", serif;
+  font-size: 23px;
+}
+
+#para2 {
+  font-family: "Marvel", serif;
+  font-size: 23px;
+
+}
+#careerClub {
+  padding: 20px;
+}
+
+#professions {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#thinking {
+  display:block;
+  margin-left: 1100px;
+}
+
+li {
+  color: #5e081b;
+  font-size: 23px;
+  text-indent: 3%;
+}
+
+#mail {
+  background-color: floralwhite;
+  border-color: black;
+  border-color: 5px;
+  padding:10px;
+  font-family: "Marvel", serif;
+  font-weight: bold;
+  font-size: 20px;
+  width: 150px;
+}
+
+#Home{
+  background-color: floralwhite;
+  border-color: black;
+  border-color: 5px;
+  padding:10px;
+  font-family: "Marvel", serif;
+  font-weight: bold;
+  font-size: 20px;
+  width: 150px;
+}

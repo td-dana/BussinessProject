@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css?family=Old+Standard+TT" );
+@import url("https://fonts.googleapis.com/css?family=Marvel");
+@import url("https://fonts.googleapis.com/css?family=Maiden+Orange");
+
+
+#careerClub {
+  background-color: floralwhite;
+  border-color: black;
+  border-color: 5px;
+  padding:10px;
+  font-family: "Marvel", serif;
+  font-weight: bold;
+  font-size: 20px;
+  width: 200px;
+  margin-left: 900px;
+}
+
+h1 {
+  text-align: center;
+  color: #5e081b;
+  font-family: "Old Standard TT", cursive;
+  font-size:50px;
+}
+
+h2{
+  text-align:left;
+  margin-left: 50px;
+  color: #4d0000;
+  font-family: "Maiden Orange", cursive;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+#para {
+  font-family: "Marvel", serif;
+  font-size: 23px;
+  margin-left: 200px;
+  margin-right: 0px;
+}
+
+body {
+  border-style: double;
+  border-width: 10px;
+  border-color:#ff4d4d;
+  padding: 80px;
+  background-color:lightyellow;
+}
